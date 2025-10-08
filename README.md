@@ -1,37 +1,63 @@
-# Hi there, I'm Lakshita 👋
+# 🌸 Welcome to **STAKEFIRE99**
+### *my calm corner of code, data & creative logic.*
 
-🎓 I'm a Master's student in Computer Applications (MCA) specializing in **Data Analytics**.  
-💡 Currently learning **Python, Data Science, and Machine Learning**.  
-🌍 My goal: Build real-world projects, gain internships, and eventually explore opportunities abroad.  
+Hi there 👋  
+I’m **Lakshita** — an MCA student specializing in **Data Analytics**, currently exploring how logic meets emotion through **data, design, and storytelling**.  
 
----
-
-## 🚀 What I'm Working On
-- 📘 Completing a **Data Science course** (with internship guaranteed)  
-- 🔨 Building projects in Python, Data Analytics, and AI  
-- 📊 Exploring how data can tell stories and solve real problems  
+This page is my little workspace of curiosity where I learn, build, and reflect.  
+From decoding numbers to creating tools that make life easier, I’m building a portfolio that blends creativity with tech ✨
 
 ---
 
-## 🛠️ Skills (Growing Every Day)
-- Programming: Python 🐍  
-- Data: Pandas, NumPy, Matplotlib, Seaborn  
-- ML Basics: Scikit-Learn 🤖  
-- Tools: Git, GitHub, Jupyter Notebook, VS Code  
+### 🌷 About Me
+- 🎓 MCA Student (Data Analytics specialization)  
+- 💻 Learning Data Science, Python, and Automation  
+- 🎨 Lover of soft aesthetics, structure, and mindful design  
+- ☕ Fueled by calm mornings, pastel notes & small victories  
 
 ---
 
-## 🎯 Goals
-- ✅ Land my first Data Science internship (in the next 6 months)  
-- 🌐 Apply for **international internships** by 2027  
-- 🗽 Long term: Work & thrive in New York City while building an impactful career  
+## 📂 My Creative Roots (Projects)
+
+| Project Root | Type | Description |
+|:--------------|:------|:-------------|
+| ⚡ [**ELECTRIC-INSIGHTS**](./ELECTRIC-INSIGHTS) | **Data Analysis (Project Work)** | Tesla Social Media Analysis — campaign performance, engagement insights, and trends |
+| 🌿 **MINDSPACE** | Python App | Task Tracker that reminds you gently — with quotes that motivate, not pressure |
+| 📔 **FLIPVERSE** | Creative App | Flipbook-style Notepad that turns simple notes into beautiful interactive pages |
+
+> 🪶 Each project is a little chapter — a quiet record of what I’ve learned, built, and loved doing.
 
 ---
 
-## 📫 Connect with Me
+### 🧠 Tech & Tools I Use
+
+| Category | Tools / Skills |
+|:----------|:----------------|
+| 🐍 **Programming** | Python (Pandas, NumPy, Matplotlib, Seaborn) |
+| 📊 **Data Analysis** | Excel (Pivot Tables, Charts, Formulas), SQL |
+| 🧩 **Visualization** | Power BI, Seaborn, Matplotlib |
+| 🪄 **Creative / Dev Tools** | Tkinter, PyQt5, Streamlit |
+| ☁️ **Platforms** | GitHub, Kaggle, Jupyter Notebook, VS Code |
+
+---
+
+### 🌸 Current Focus
+> *“Consistency over intensity — learning slowly, but deeply.”*  
+- Rebuilding Python and Data Science foundations from scratch  
+- Completing **Tesla Data Analysis** project  
+- Working on personal Python tools (Task Tracker & FlipNote)
+
+---
+
+### 🌼 Let’s Connect
+I love learning and collaborating with people who value creativity in logic 🌷  
 - GitHub: [@stakefire99](https://github.com/stakefire99)  
 - LinkedIn: (https://www.linkedin.com/in/lakshita-sharma-047439224/)
 - Email: lak03shita@gmail.com 
 
 ---
+
+✨ *“Even quiet progress is still progress.”*  
+Thanks for stopping by 🌸  
+
 ✨ *I believe consistency beats motivation. Every small step takes me closer to my big dreams.*
