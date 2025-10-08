@@ -55,13 +55,11 @@ I built this as part of my data analytics learning journey, combining Excel data
 | Presentation summary (if added) |
 
 ---
-
 ## 🖼️ Preview
-> *(If you add chart images in `images/`, you can display them like this)*  
-![Engagement Rate by Platform](images/engagement_chart.png)
-![Follower Growth Trend](images/follower_growth.png)
-![Ad Spend vs Engagement Correlation](images/ad_spend_correlation.png)
-![Hashtage_frequency](images/hashtage_frequency.png)
+![Engagement Rate](./Engagement_rate.png)
+![Follower Growth](./Follower_growth.png)
+![Hashtag Frequency](./Hashtage_frequency.png)
+![Ad Spend Correlation](./ad_spend_correlation.png)
 
 ---
 
