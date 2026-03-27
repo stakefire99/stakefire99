@@ -22,11 +22,7 @@ From decoding numbers to creating tools that make life easier, I’m building a 
 | Project Root | Type | Description |
 |:--------------|:------|:-------------|
 | ⚡ [**ELECTRIC-INSIGHTS**](./ELECTRIC-INSIGHTS) | **Data Analysis (Project Work)** | Tesla Social Media Analysis — campaign performance, engagement insights, and trends |
-| 🌿 [**MINDSPACE**](./MINDSPACE) | Python App| Task Tracker that reminds you gently — with quotes that motivate, not pressure |
-| 📔 [**FLIPVERSE**](./FLIPVERSE)| Creative App | Flipbook-style Notepad that turns simple notes into beautiful interactive pages |
-| 🐾 [**PawHelp**](./PawHelp)  |AI-powered Web Application| *AI app that helps identify and care for street animals using image + text analysis.* |
-| 🌍 [**WanderTale**](./WanderTale) |AI-Powered Data Storytelling App| *AI storytelling travel planner — where every street has a story.* |
-
+| 🧠 COGNIFY | AI Application | AI-powered system designed to [brief clean description of what it does]
 > 🪶 Each project is a little chapter — a quiet record of what I’ve learned, built, and loved doing.
 
 ---
