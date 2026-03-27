@@ -22,7 +22,7 @@ From decoding numbers to creating tools that make life easier, I’m building a 
 | Project Root | Type | Description |
 |:--------------|:------|:-------------|
 | ⚡ [**ELECTRIC-INSIGHTS**](./ELECTRIC-INSIGHTS) | **Data Analysis (Project Work)** | Tesla Social Media Analysis — campaign performance, engagement insights, and trends |
-| 🧠 COGNIFY | AI Application | AI-powered system designed to [brief clean description of what it does]
+| 🧠 COGNIFYZ TECHNOLOGIES | AI Application | AI-powered system designed to [brief clean description of what it does]
 > 🪶 Each project is a little chapter — a quiet record of what I’ve learned, built, and loved doing.
 
 ---
