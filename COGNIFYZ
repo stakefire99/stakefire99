@@ -1,0 +1,45 @@
+# 📊 Cognifyz Data Analysis Project
+
+## 👤 About Me
+**Lakshita**  
+MCA (Data Analytics) | Python | Power BI | AI Enthusiast  
+
+---
+
+## 📌 Project Overview
+This project focuses on analyzing restaurant data to uncover meaningful insights related to customer behavior, pricing patterns, cuisine trends, and geographic distribution.
+
+The goal is to transform raw data into actionable insights using Python-based data analysis techniques.
+
+---
+
+## 🛠 Tech Stack
+- Python  
+- Pandas  
+- NumPy  
+- Matplotlib  
+- Seaborn  
+- Folium  
+
+---
+
+## 📊 Analysis Performed
+- Data cleaning and preprocessing  
+- Exploratory Data Analysis (EDA)  
+- Rating distribution analysis  
+- Cuisine-based performance insights  
+- Location-based clustering using maps  
+- Price vs rating correlation  
+
+---
+
+## 🔍 Key Insights
+- Majority of restaurants fall in the **3–4 rating range**  
+- **Niche cuisines** often receive higher ratings  
+- Restaurants are highly concentrated in **urban areas**  
+- Higher ratings generally correlate with **more customer votes**  
+- **Premium-priced restaurants** tend to have better ratings  
+
+---
+
+## 📁 Project Structure
