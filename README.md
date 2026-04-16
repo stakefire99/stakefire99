@@ -13,7 +13,7 @@ From decoding numbers to building tools that *actually do something*, I’m crea
 ### 🌷 About Me
 
 * 🎓 MCA Student (Data Analytics specialization)
-* 💻 Building real-world Python & Data projects
+* 💻 Building real-world Python, SQL & Data projects
 * 🎨 Lover of soft aesthetics, structure, and mindful design
 * ☕ Fueled by calm mornings, pastel notes & small wins
 
@@ -23,21 +23,23 @@ From decoding numbers to building tools that *actually do something*, I’m crea
 
 ### 🔹 Data & Analysis
 
-| Project Root                                                                           | Type          | Description                                                                                                                                                                        |
-| :------------------------------------------------------------------------------------- | :------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ⚡ [**ELECTRIC-INSIGHTS**](https://github.com/stakefire99/ELECTRIC-INSIGHTS)            | Data Analysis | Tesla Social Media Analysis — explored campaign performance and audience engagement trends to understand content impact and digital reach                                          |
-| 📊 [**SALES-DASHBOARD**](https://github.com/stakefire99/SALES-DASHBOARD)               | Data Analysis | Built a sales analysis dashboard using Python (Pandas + visualization) to track revenue patterns, identify top-performing products, and highlight regional performance differences |
-| 🧠 [**COGNIFYZ-DATA-ANALYSIS**](https://github.com/stakefire99/Cognifyz_Data_Analysis) | Data Analysis | Performed structured data cleaning and preprocessing, followed by exploratory analysis to extract meaningful insights and improve data interpretability for decision-making        |
+| Project Root                                                                                       | Type               | Description                                                                                                                                                                  |
+| :------------------------------------------------------------------------------------------------- | :----------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 🚚 [**FEDEX-LOGISTICS-SQL-ANALYSIS**](https://github.com/stakefire99/FEDEX-LOGISTICS-SQL-ANALYSIS) | SQL Analysis       | Performed end-to-end logistics analysis using SQL, identifying delivery delays, optimizing routes, and evaluating warehouse and agent performance for operational efficiency |
+| 🛒 [**WALMART-SALES-DASHBOARD**](https://github.com/stakefire99/WALMART-SALES-DASHBOARD)           | Power BI Dashboard | Built an interactive Power BI dashboard to analyze sales trends, identify top-performing products, and uncover regional performance insights for business decision-making    |
+| ⚡ [**ELECTRIC-INSIGHTS**](https://github.com/stakefire99/ELECTRIC-INSIGHTS)                        | Data Analysis      | Analyzed Tesla social media data to explore engagement trends, evaluate content performance, and understand audience interaction patterns                                    |
+| 📊 [**SALES-DASHBOARD**](https://github.com/stakefire99/SALES-DASHBOARD)                           | Data Analysis      | Developed a Python-based sales analysis dashboard to track revenue patterns, identify key trends, and highlight business insights                                            |
+| 🧠 [**COGNIFYZ-DATA-ANALYSIS**](https://github.com/stakefire99/COGNIFYZ-DATA-ANALYSIS)             | Data Analysis      | Conducted structured data cleaning and exploratory analysis to extract meaningful insights and improve data interpretability for decision-making                             |
 
 ---
 
 ### 🔹 Developer & AI Projects
 
-| Project Root                                                                                       | Type               | Description                                                                                                                                                                            |
-| :------------------------------------------------------------------------------------------------- | :----------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 🤖 [**ECHO**](https://github.com/stakefire99/ECHO)                                                 | AI Application     | Built an AI conversational assistant using OpenAI API & prompt engineering to generate context-aware, human-like responses, improving interaction quality and response coherence       |
-| 🧰 [**PERSONAL-PRODUCTIVITY-SUITE**](https://github.com/stakefire99/personal-productivity-suite)   | Python Application | Developed a modular CLI-based productivity toolkit with features like notes management, file organization, timer, and backup system to improve task efficiency and workflow management |
-| 🌐 [**SOCIAL-MEDIA-PLATFORM-DJANGO**](https://github.com/stakefire99/social-media-platform-django) | Web Application    | Built a Django-based social media platform focusing on user interaction, backend logic, and structured data handling for scalable application design                                   |
+| Project Root                                                                                       | Type               | Description                                                                                                                                                                      |
+| :------------------------------------------------------------------------------------------------- | :----------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 🤖 [**ECHO**](https://github.com/stakefire99/ECHO)                                                 | AI Application     | Built an AI conversational assistant using OpenAI API & prompt engineering to generate context-aware, human-like responses, improving interaction quality and response coherence |
+| 🧰 [**PERSONAL-PRODUCTIVITY-SUITE**](https://github.com/stakefire99/personal-productivity-suite)   | Python Application | Developed a modular CLI-based productivity toolkit with features like notes management, file organization, timer, and backup system to improve workflow efficiency               |
+| 🌐 [**SOCIAL-MEDIA-PLATFORM-DJANGO**](https://github.com/stakefire99/social-media-platform-django) | Web Application    | Built a Django-based social media platform focusing on user interaction, backend logic, and scalable application design                                                          |
 
 > 🪶 Each project is a little chapter — a quiet record of what I’ve learned, built, and enjoyed along the way.
 
@@ -45,13 +47,13 @@ From decoding numbers to building tools that *actually do something*, I’m crea
 
 ### 🧠 Tech & Tools I Use
 
-| Category                    | Tools / Skills                              |
-| :-------------------------- | :------------------------------------------ |
-| 🐍 **Programming**          | Python (Pandas, NumPy, Matplotlib, Seaborn) |
-| 📊 **Data Analysis**        | Excel (Pivot Tables, Charts, Formulas), SQL |
-| 🧩 **Visualization**        | Power BI, Plotly, Matplotlib, Seaborn       |
-| 🪄 **Creative / Dev Tools** | Tkinter, PyQt5, Streamlit                   |
-| ☁️ **Platforms**            | GitHub, Kaggle, Jupyter Notebook, VS Code   |
+| Category             | Tools / Skills                         |
+| :------------------- | :------------------------------------- |
+| 🐍 **Programming**   | Python                                 |
+| 🧠 **Data Analysis** | Pandas, NumPy, SQL                     |
+| 📊 **Visualization** | Power BI, Plotly, Matplotlib, Seaborn  |
+| 🪄 **Development**   | Streamlit, Tkinter, PyQt5, Django      |
+| ☁️ **Tools**         | Git, GitHub, VS Code, Jupyter Notebook |
 
 ---
 
@@ -59,9 +61,9 @@ From decoding numbers to building tools that *actually do something*, I’m crea
 
 > *“Consistency over intensity — learning slowly, but deeply.”*
 
-* Strengthening Data Analysis + Python fundamentals
-* Building more real-world projects (Data + AI combined)
-* Improving project quality, not just quantity
+* Strengthening SQL + Data Analysis fundamentals
+* Building more real-world projects combining AI + Data
+* Improving project depth and storytelling
 
 ---
 
