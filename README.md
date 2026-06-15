@@ -1,141 +1,65 @@
-# 👋 Hi, I'm Lakshita 
+# 👋 Hi, I'm Lakshita Sharma
 
 ### Data Analytics • Python Development • AI Applications
 
-I'm an MCA student specializing in Data Analytics with a passion for building products that combine data, software, and user experience.
+I'm an MCA student specializing in Data Analytics who enjoys building products that combine data, software, and user experience.
 
-I enjoy transforming ideas into practical applications—whether that's an AI-powered tool, an analytics platform, or a dashboard that helps people make better decisions. My goal is to create technology that is not only functional but also meaningful and enjoyable to use.
-
-Currently, I'm focused on strengthening my skills in Python, Analytics, Machine Learning, and Product Development while building a portfolio of real-world projects.
+From AI-powered tools to analytics platforms and interactive dashboards, I love transforming ideas into applications that solve real problems and tell meaningful stories through data.
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🏎️ ApexF1 Intelligence Platform
-
-**Formula 1 Analytics & Race Prediction Platform**
-
-A comprehensive F1 intelligence platform designed to analyze championship battles, compare drivers, evaluate team performance, and simulate race outcomes.
-
-**Highlights**
-
-* Driver Intelligence & Comparisons
-* Circuit Intelligence
-* Race Prediction Engine
-* Team Performance Analysis
-* Championship Simulator
-* Interactive Visual Analytics
-
-**Tech Stack:** Python, Pandas, Plotly, Streamlit, Machine Learning
-
-🔗 GitHub: https://github.com/stakefire99/ApexF1-Intelligence-Platform
-
----
-
-### 🤖 AI Resume Analyzer
-
-**AI-Powered ATS Optimization Tool**
-
-An intelligent application that analyzes resumes against job descriptions, identifies keyword gaps, calculates ATS compatibility scores, and generates actionable recommendations.
-
-**Highlights**
-
-* ATS Match Scoring
-* Resume vs Job Description Analysis
-* Keyword Gap Detection
-* AI-Powered Feedback
-* Interactive Dashboard
-
-**Tech Stack:** Python, Streamlit, OpenAI API, NLP
-
-🔗 GitHub: https://github.com/stakefire99/AI-Resume-Analyzer
+| Project                                                                                             | Type               | Description                                                                                                                                                 |
+| --------------------------------------------------------------------------------------------------- | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 🏎️ [**ApexF1 Intelligence Platform**](https://github.com/stakefire99/ApexF1-Intelligence-Platform) | Analytics Platform | Formula 1 analytics platform featuring race prediction, driver intelligence, championship simulation, circuit analysis, and interactive visual storytelling |
+| 🤖 [**AI Resume Analyzer**](https://github.com/stakefire99/AI-Resume-Analyzer)                      | AI Application     | ATS compatibility analysis, keyword gap detection, resume-job matching, and AI-powered feedback for job seekers                                             |
+| 🧰 [**Personal Productivity Suite**](https://github.com/stakefire99/personal-productivity-suite)    | Python Application | Modular productivity toolkit with notes manager, file organizer, timer, unit converter, and backup system                                                   |
+| 🤖 [**ECHO**](https://github.com/stakefire99/ECHO)                                                  | AI Application     | Conversational AI assistant built using OpenAI API and prompt engineering                                                                                   |
 
 ---
 
 ## 📊 Analytics Projects
 
-| Project                         | Description                                                                                                                |
-| ------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
-| 🚚 FEDEX Logistics SQL Analysis | End-to-end logistics analysis using SQL to identify delivery delays, optimize routes, and evaluate operational performance |
-| 🛒 Walmart Sales Dashboard      | Interactive Power BI dashboard analyzing sales trends, top-performing products, and regional performance                   |
-| ⚡ Electric Insights             | Social media analytics project exploring Tesla engagement trends and content performance                                   |
-| 📈 Sales Dashboard              | Python-based sales analytics dashboard for revenue tracking and business insights                                          |
-| 🧠 Cognifyz Data Analysis       | Data cleaning, exploratory analysis, and insight generation project                                                        |
+| Project                                                                                            | Type               | Description                                                                                     |
+| -------------------------------------------------------------------------------------------------- | ------------------ | ----------------------------------------------------------------------------------------------- |
+| 🚚 [**FEDEX Logistics SQL Analysis**](https://github.com/stakefire99/FEDEX-LOGISTICS-SQL-ANALYSIS) | SQL Analysis       | Logistics performance analysis, route optimization, warehouse evaluation, and delivery insights |
+| 🛒 [**Walmart Sales Dashboard**](https://github.com/stakefire99/WALMART-SALES-DASHBOARD)           | Power BI Dashboard | Interactive business intelligence dashboard exploring sales trends and regional performance     |
+| ⚡ [**Electric Insights**](https://github.com/stakefire99/ELECTRIC-INSIGHTS)                        | Data Analysis      | Tesla social media engagement and content performance analysis                                  |
+| 📈 [**Sales Dashboard**](https://github.com/stakefire99/SALES-DASHBOARD)                           | Data Analytics     | Revenue tracking, trend analysis, and business performance visualization                        |
+| 🧠 [**Cognifyz Data Analysis**](https://github.com/stakefire99/COGNIFYZ-DATA-ANALYSIS)             | Data Analysis      | Data cleaning, EDA, and business insight generation                                             |
 
 ---
 
-## 💻 Development & AI Projects
+## 💻 Development Projects
 
-| Project                         | Description                                                                                                    |
-| ------------------------------- | -------------------------------------------------------------------------------------------------------------- |
-| 🤖 Echo AI Assistant            | Conversational AI assistant powered by OpenAI API and prompt engineering                                       |
-| 🧰 Personal Productivity Suite  | Modular productivity toolkit featuring notes management, file organization, timer, converter, and backup tools |
-| 🌐 Django Social Media Platform | Full-stack social media application built with Django                                                          |
+| Project                                                                                              | Type            | Description                                                                                       |
+| ---------------------------------------------------------------------------------------------------- | --------------- | ------------------------------------------------------------------------------------------------- |
+| 🌐 [**Social Media Platform (Django)**](https://github.com/stakefire99/social-media-platform-django) | Web Application | Django-based social media platform focused on backend architecture and user interaction           |
+| 🧪 Customer Churn Analytics Platform                                                                 | In Progress     | Predictive analytics platform for churn prediction, customer intelligence, and retention strategy |
+| 📊 Job Market Intelligence Dashboard                                                                 | Planned         | Analytics platform for skill demand tracking, salary trends, and hiring insights                  |
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Programming
-
-* Python
-* SQL
-* C++
-
-### Data Analytics
-
-* Pandas
-* NumPy
-* Data Cleaning
-* Exploratory Data Analysis (EDA)
-
-### Visualization
-
-* Power BI
-* Plotly
-* Matplotlib
-* Seaborn
-
-### Machine Learning & AI
-
-* Scikit-Learn
-* OpenAI API
-* Predictive Analytics
-* Natural Language Processing
-
-### Development
-
-* Streamlit
-* Django
-* Tkinter
-* PyQt
-
-### Tools
-
-* Git
-* GitHub
-* VS Code
-* Jupyter Notebook
+| Category         | Tools & Technologies                           |
+| ---------------- | ---------------------------------------------- |
+| 🐍 Programming   | Python, SQL, C++                               |
+| 📊 Analytics     | Pandas, NumPy, Data Cleaning, EDA              |
+| 📈 Visualization | Power BI, Plotly, Matplotlib, Seaborn          |
+| 🤖 AI & ML       | OpenAI API, Scikit-Learn, Predictive Analytics |
+| 🌐 Development   | Streamlit, Django, Tkinter, PyQt               |
+| ☁️ Tools         | Git, GitHub, VS Code, Jupyter Notebook         |
 
 ---
 
-## 📈 Current Focus
-
-* Building production-ready analytics applications
-* Developing AI-powered tools using Python
-* Strengthening machine learning and predictive analytics skills
-* Expanding my portfolio with real-world projects
-* Learning in public and documenting my journey
-
----
-
-## 🌱 What I'm Working On
+## 🌱 Currently Building
 
 * Customer Churn Analytics Platform
 * Job Market Intelligence Dashboard
-* Advanced Data Analytics Projects
-* Machine Learning Applications
+* Advanced Analytics & Machine Learning Projects
+* Production-ready Data Applications
 
 ---
 
@@ -149,4 +73,4 @@ An intelligent application that analyzes resumes against job descriptions, ident
 
 ---
 
-### “I learn by building, improve by experimenting, and grow by staying consistent.”
+### "I learn by building, improve by experimenting, and grow through consistency."
